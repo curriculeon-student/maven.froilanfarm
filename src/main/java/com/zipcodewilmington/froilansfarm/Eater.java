@@ -1,7 +1,6 @@
 package com.zipcodewilmington.froilansfarm;
 
-import com.zipcodewilmington.froilansfarm.ContainerInterface;
-import com.zipcodewilmington.froilansfarm.Edible;
+import com.zipcodewilmington.froilansfarm.containers.ContainerInterface;
 
 /**
  * @author git-leon
