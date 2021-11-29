@@ -1,6 +1,6 @@
 package com.zipcodewilmington.froilansfarm.animal;
 
-import com.zipcodewilmington.froilansfarm.Egg;
+import com.zipcodewilmington.froilansfarm.produce.Egg;
 import com.zipcodewilmington.froilansfarm.produce.ProduceInterface;
 
 import java.util.function.Supplier;

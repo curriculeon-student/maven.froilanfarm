@@ -25,7 +25,7 @@ import java.util.stream.Stream;
  * @date 11/26/21 11:34 PM
  */
 public class FarmGenerator {
-    private static Farm createDefault() {
+    public static Farm createDefault() {
         // populate farm
         Farm farm = new FarmBuilder()
                 .setFarmHouse(new FarmHouse())

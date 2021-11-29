@@ -1,7 +1,5 @@
 package com.zipcodewilmington.froilansfarm.produce;
 
-import com.zipcodewilmington.froilansfarm.Edible;
-
 /**
  * @author git-leon
  * @version 1.0.0

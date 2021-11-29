@@ -1,6 +1,6 @@
 package com.zipcodewilmington.froilansfarm.vehicle;
 
-import com.zipcodewilmington.froilansfarm.Edible;
+import com.zipcodewilmington.froilansfarm.produce.Edible;
 import com.zipcodewilmington.froilansfarm.produce.ProduceInterface;
 import com.zipcodewilmington.froilansfarm.produce.CropInterface;
 import com.zipcodewilmington.froilansfarm.produce.CropRowInterface;

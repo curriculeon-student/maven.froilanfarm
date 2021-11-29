@@ -1,7 +1,5 @@
 package com.zipcodewilmington.froilansfarm.produce;
 
-import com.zipcodewilmington.froilansfarm.Edible;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
