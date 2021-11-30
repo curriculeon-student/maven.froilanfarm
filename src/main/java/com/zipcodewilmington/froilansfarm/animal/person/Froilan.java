@@ -1,6 +1,6 @@
 package com.zipcodewilmington.froilansfarm.animal.person;
 
-import com.zipcodewilmington.froilansfarm.containers.Farm;
+import com.zipcodewilmington.froilansfarm.Farm;
 
 /**
  * @author git-leon

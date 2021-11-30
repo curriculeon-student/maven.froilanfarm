@@ -2,7 +2,7 @@ package com.zipcodewilmington.froilansfarm.animal.person;
 
 
 import com.zipcodewilmington.froilansfarm.BotanistInterface;
-import com.zipcodewilmington.froilansfarm.containers.Farm;
+import com.zipcodewilmington.froilansfarm.Farm;
 import com.zipcodewilmington.froilansfarm.Rider;
 
 /**

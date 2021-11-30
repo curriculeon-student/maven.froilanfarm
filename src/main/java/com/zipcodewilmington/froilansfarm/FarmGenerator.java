@@ -5,7 +5,6 @@ import com.zipcodewilmington.froilansfarm.animal.ChickenCoop;
 import com.zipcodewilmington.froilansfarm.animal.Horse;
 import com.zipcodewilmington.froilansfarm.animal.Stable;
 import com.zipcodewilmington.froilansfarm.containers.Container;
-import com.zipcodewilmington.froilansfarm.containers.Farm;
 import com.zipcodewilmington.froilansfarm.containers.FarmHouse;
 import com.zipcodewilmington.froilansfarm.containers.Field;
 import com.zipcodewilmington.froilansfarm.produce.CornStalk;
